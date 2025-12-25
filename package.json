@@ -10,6 +10,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.2.1"
+    "cors": "^2.8.5",
+    "create": "^0.5.5",
+    "express": "^5.2.1",
+    "react": "^19.2.3",
+    "template": "^0.17.5",
+    "vite": "^7.3.0"
   }
 }
